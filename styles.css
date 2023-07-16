@@ -84,19 +84,19 @@ li {
 }
 
 .icon-1 {
-  background-image: url(/images/home3.png);
+  background-image: url(/home3.png);
   padding-left: 30px;
   
   
 }
 
 .icon-2 {
-  background-image: url(/images/mail1.png);
+  background-image: url(/mail1.png);
   padding-left: 30px;
 }
 
 .icon-3 {
-  background-image: url(/images/phone1.png);
+  background-image: url(/phone1.png);
   padding-left: 30px;
 }
 
